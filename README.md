@@ -2,6 +2,9 @@
 
 Bem-vindo ao  **Sistema de Controle de Estoque** ! Este projeto foi desenvolvido para ajudar a gerenciar o estoque de produtos de forma simples e eficiente, utilizando Python, SQLite para banco de dados e o Pandas para exibição de dados em formato de tabela no Jupyter Notebook. Além disso, o projeto conta com uma interface gráfica para facilitar o uso, construída com o  **Tkinter** .
 
+![organiza-estoque treinamento](https://github.com/user-attachments/assets/d8c49ae7-fc18-4489-83b8-d5429eeb1eaf)
+
+
 ## 📋 Funcionalidades
 
 O sistema oferece as seguintes funcionalidades:
